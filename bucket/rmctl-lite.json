@@ -1,16 +1,16 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "description": "Command-line client for the reMarkable cloud, without rendering",
     "homepage": "https://github.com/altessa-s/rmctl",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/altessa-s/rmctl/releases/download/v1.3.0/rmctl-lite_1.3.0_windows_amd64.zip",
-            "hash": "db1c118aefeae306bb94c3df88d13dc937cd66a47a299c0093e7acca3d5351ce"
+            "url": "https://github.com/altessa-s/rmctl/releases/download/v1.3.1/rmctl-lite_1.3.1_windows_amd64.zip",
+            "hash": "b31a49640763b5f29c4803b00f40235e253e60dc49c57740bed6ed6144be335a"
         },
         "arm64": {
-            "url": "https://github.com/altessa-s/rmctl/releases/download/v1.3.0/rmctl-lite_1.3.0_windows_arm64.zip",
-            "hash": "6f63f4ca13ce0be7aeec8e1725526d4f02c9a96ba68308942428590771184bb4"
+            "url": "https://github.com/altessa-s/rmctl/releases/download/v1.3.1/rmctl-lite_1.3.1_windows_arm64.zip",
+            "hash": "f7bd43aa7616b4333e279f0101efb34f6247ca67f9f6994d793e864f5115db14"
         }
     },
     "bin": "rmctl.exe",
